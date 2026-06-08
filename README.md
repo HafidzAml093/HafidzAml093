@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I am an Informatics student based in Daerah Istime
 ## 📊 GitHub Statistic
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafidzAml093&theme=vue-dark&show_icons=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafidzAml093&theme=vue-dark&layout=compact" height="180" />
+  <img src="https://github-readme-stats-psi-orcin-78.vercel.app/api?username=HafidzAml093&theme=vue-dark&show_icons=true" height="180" />
+  <img src="https://github-readme-stats-psi-orcin-78.vercel.app/api/top-langs/?username=HafidzAml093&theme=vue-dark&layout=compact" height="180" />
 </p>
